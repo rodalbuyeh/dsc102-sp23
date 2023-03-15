@@ -13,30 +13,37 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Just the Class
-tagline: A Jekyll template for course websites
-description: A modern, highly customizable, responsive Jekyll template for course websites
-author: Kevin Lin
-baseurl: '/just-the-class' # the subpath of your site, e.g. /blog
-url: 'https://kevinl.info' # the base hostname & protocol for your site, e.g. http://example.com
-exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
+title: DSC 102
+description: DSC 102, Spring 2023 at UC San Diego
+tagline: Systems for Scalable Analytics
+baseurl: '/' # the subpath of your site, e.g. /blog
+url: 'https://dsc10.com' # the base hostname & protocol for your site, e.g. http://example.com
+author: Rod Albuyeh
+exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 # Theme settings
-remote_theme: just-the-docs/just-the-docs@v0.4.1
-color_scheme: light
+remote_theme: just-the-docs/just-the-docs@v0.4.0.rc3
+color_scheme: bluecsd
 search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Kevin Lin:
-    - 'https://kevinl.info'
-  Just the Class on GitHub:
-    - 'https://github.com/kevinlin1/just-the-class'
+  Campuswire:
+    - 'https://campuswire.com/c/GE36D51A4/feed'
+  DataHub:
+    - 'https://datahub.ucsd.edu'
+  Reference:
+    - 'https://drive.google.com/file/d/1ky0Np67HS2O4LO913P-ing97SJG0j27n/view?usp=sharing'
+  Practice:
+    - 'https://practice.dsc10.com/'
+  CC ✅:
+    - 'http://cc.dsc10.com/'
 footer_content:
 
 # Collections for website data
 collections:
   staffers:
+  staffersnobio:
   modules:
   schedules:
   announcements:
@@ -47,9 +54,13 @@ defaults:
       type: staffers
     values:
       layout: staffer
-      height: 300
       subpath: '/assets/images/'
-      width: 300
+  - scope:
+      path: ''
+      type: staffersnobio
+    values:
+      layout: staffer_no_bio
+      subpath: '/assets/images/'
   - scope:
       path: ''
       type: modules
@@ -73,3 +84,18 @@ compress_html:
   startings: []
   blanklines: false
   profile: false
+
+plugins:
+  - jekyll-seo-tag
+
+# callouts
+callouts:
+  warning:
+    title: Warning
+    color: red
+  important:
+    title: Important Announcement
+    color: red
+  note:
+    title: Note
+    color: yellow
