@@ -17,7 +17,7 @@ title: DSC 102
 description: DSC 102, Spring 2023 at UC San Diego
 tagline: Systems for Scalable Analytics
 baseurl: '/' # the subpath of your site, e.g. /blog
-url: 'https://dsc10.com' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://rod-albuyeh-labs.github.io/dsc102-sp23' # the base hostname & protocol for your site, e.g. http://example.com
 author: Rod Albuyeh
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
@@ -29,15 +29,10 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   Campuswire:
-    - 'https://campuswire.com/c/GE36D51A4/feed'
+    - 'https://campuswire.com/c/G758B8EF0/feed'
   DataHub:
     - 'https://datahub.ucsd.edu'
-  Reference:
-    - 'https://drive.google.com/file/d/1ky0Np67HS2O4LO913P-ing97SJG0j27n/view?usp=sharing'
-  Practice:
-    - 'https://practice.dsc10.com/'
-  CC ✅:
-    - 'http://cc.dsc10.com/'
+
 footer_content:
 
 # Collections for website data

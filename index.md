@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 🏠 Home
+title: Home
 nav_exclude: false
 nav_order: 1
 ---
@@ -12,9 +12,12 @@ nav_order: 1
 
 {{ site.staffersnobio }}
 
-<!-- Lecture and discussion recordings can be found at [podcast.ucsd.edu](https://podcast.ucsd.edu). -->
 
-[Jump to the current week](#week-10){: .btn }
+Discussions/Lab sessions will be held Tuesdays 7:00pm-7:50pm in MANDE B-210.
+
+
+
+[Jump to the current week](#week-01){: .btn }
 
 {% for module in site.modules %}
 {{ module }}

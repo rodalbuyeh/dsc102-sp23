@@ -1,11 +1,11 @@
 ---
 layout: page
-title: 👩‍🏫 Staff
+title: Staff
 description: A listing of all the course staff members.
 nav_order: 7
 ---
 
-# 👩‍🏫 Staff
+# Staff
 
 ## Instructors
 
