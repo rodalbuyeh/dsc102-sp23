@@ -19,8 +19,8 @@ nav_order: 5
 |4|Basics of Cloud Computing| - |
 |4-5| Parallel and Scalable Data Processing: Parallelism Basics |Ch. 9.4, 12.2, 14.1.1, 14.6, 22.1-22.3, 22.4.1, 22.8 of Cow Book; Ch. 5, 6.1, 6.3, 6.4 of MLSys Book|
 |5|Review for midterm in discussion section, 05/09/2023 ||
-|6-7|Parallel and Scalable Data Processing: Scalable Data Access||
 |6|Midterm on 5/11/2023 in class||
+|6-7|Parallel and Scalable Data Processing: Scalable Data Access||
 |7-8|Parallel and Scalable Data Processing: Data Parallelism ||
 |9-10|Dataflow Systems|Ch. 2.2 of MLSys Book|
 |10|ML Model Building Systems|Ch. 8-8.4 of MLSys Book|

@@ -129,7 +129,7 @@ Midterm Exam: Thursday, 05/11, in class
 
 Cumulative Final Exam: Friday, 6/15/2023, 8:00am-10:59am; remote via Canvas
 
-#### Exam Dates and Format
+#### Classroom Rules
 
 - No late days for submitting the PAs. No extensions on the final exam time window. Plan all your work well up front accordingly.
 
