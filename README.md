@@ -1,6 +1,5 @@
-# dsc10-2022-fa
+# dsc102-sp03
 
-This branch contains the source code for the course website. See [this video](https://www.youtube.com/watch?v=MEeLr9GRa3I) for how to make updates to the website, or read the instructions below.
 
 ### Local development environment
 
@@ -13,7 +12,5 @@ $ bundle exec jekyll serve
 ```
 1. Point your web browser to [http://localhost:4000](http://localhost:4000)
 1. Reload your web browser after making a change to preview its effect.
-
-**Note:** In the event that you get an error that says something about "webrick", run `bundle add webrick`.
 
 For more information, refer to [Just the Docs](https://pmarsceill.github.io/just-the-docs/).
