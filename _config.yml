@@ -94,5 +94,5 @@ callouts:
     title: Important Announcement
     color: red
   note:
-    title: Note
-    color: yellow
+    title: ""
+    color: green
