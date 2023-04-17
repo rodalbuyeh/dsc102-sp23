@@ -11,7 +11,7 @@ nav_order: 4
 ### Documents and Dates
 - PA0: Setting up AWS and Dask
     - Release Date: Monday, 04/18/2023
-    - Statement and Grading Rubric will be posted here
+    - [Statement](resources/PAs/PA0.pdf) and [Grading Rubric](resources/PAs/PA0_Grading_Rubric.pdf)
     - Discussion by TA: 04/18/2023
     - Due Date: 04/27/2023
 - PA1: Data Exploration with Dask
