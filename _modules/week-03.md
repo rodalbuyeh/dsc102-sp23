@@ -20,5 +20,5 @@
 
           "**WATCH**{: .label .label-proj } [Sai's Full Demo on Setting up AWS and Dask](https://youtu.be/VOMfZWLBRM8)": "[📺](https://youtu.be/VOMfZWLBRM8)"
 
-          "**READ**{: .label .label-hw } [Sai's System Setup Summary](resources/labs/DSC102_PA0_System_setup.pdf)":
+          "**READ**{: .label .label-hw } [Sai's System Setup Summary](resources/labs/DSC102_PA0_System_Setup.pdf)":
 ---
