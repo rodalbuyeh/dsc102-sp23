@@ -13,7 +13,7 @@ nav_order: 4
     - Release Date: Monday, 04/18/2023
     - [Statement](resources/PAs/PA0.pdf) and [Grading Rubric](resources/PAs/PA0_Grading_Rubric.pdf)
     - Discussion by TA: 04/18/2023
-    - Due Date: 04/27/2023
+    - Due Date: 04/29/2023
 - PA1: Data Exploration with Dask
     - Release Date: 04/27/2023
     - Statement and Grading Rubric will be posted here
