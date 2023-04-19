@@ -10,6 +10,6 @@
 
           "**READ**{: .label .label-hw } [AWS Blog Post on EC2 Inf2 instances](https://aws.amazon.com/blogs/aws/amazon-ec2-inf2-instances-for-low-cost-high-performance-generative-ai-inference-are-now-generally-available/?trk=57fb336f-4920-4095-9824-18857850f710&sc_channel=sm)":
 
-          "**Lab 1**{: .label .label-lab } Setting Up AWS and Dask": "[📺](https://podcast.ucsd.edu/watch/sp23/dsc102_a01/1)"
+          "**Lab 1**{: .label .label-lab } [Setting Up AWS and Dask](resources/labs/PA0_Discussion_Session.pdf) - [Jupyter Demo](resources/labs/dask_demo_notebook.ipynb)": "[📺](https://podcast.ucsd.edu/watch/sp23/dsc102_a01/1)"
 
 ---
