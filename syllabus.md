@@ -40,6 +40,7 @@ A major component of this course is hands-on Python programming to implement dat
     - Grading is based on earnest participation in the whole activity.
     - If you miss an activity, you can still submit on the same day by 11:59pm PST to recoup up to 60% of the score for that activity, unless specified otherwise on Campuswire.
     - You can miss up to 2 activities out of the 6 without losing credit.
+    - If you complete all of the activities, we will use the best 4 scores. 
 
 - Midterm exam and cumulative final exam
     - The midterm exam will be held in person only. The final exam will be held in person as well. The dates and logistics are listed below. 

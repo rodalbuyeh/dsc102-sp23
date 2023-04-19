@@ -15,6 +15,9 @@ nav_order: 1
 {: .important } 
 In-class activities have been cut from 12 to 6, while you can still miss two without penalty. 
 
+{: .note } 
+PA0 prompt has been revised to account for AWS account isolation. 
+
 Click the 📺 icons below to view podcast recording. 
 
 
