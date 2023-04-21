@@ -14,7 +14,7 @@
 
       - date: 2023-4-20
         events:
-          "**LEC 5**{: .label .label-lecture } [Computer Organization Part 2-b](resources/lectures/Lec_05-Topic1-Part_2b-OS.pdf)": 
+          "**LEC 5**{: .label .label-lecture } [Computer Organization Part 2-b](resources/lectures/Lec_05-Topic1-Part_2b-OS.pdf)": "[📺](https://podcast.ucsd.edu/watch/sp23/dsc102_a00/6)"
 
           "**READ**{: .label .label-hw } Ch. 18.1, 21, 22, 26, 36, 37, 39, 40.1-40.2 of Comet Book":
 
