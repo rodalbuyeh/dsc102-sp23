@@ -22,7 +22,7 @@ Click the 📺 icons below to view lecture recording.
 
 
 
-[Jump to the current week](#week-03){: .btn }
+<!-- [Jump to the current week](#week-03){: .btn } -->
 
 {% for module in site.modules %}
 {{ module }}
