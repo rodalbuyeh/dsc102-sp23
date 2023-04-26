@@ -12,11 +12,14 @@ nav_order: 1
 
 {{ site.staffersnobio }}
 
-{: .important } 
-In-class activities have been cut from 12 to 6, while you can still miss two without penalty. 
+<!-- {: .important } 
+In-class activities have been cut from 12 to 6, while you can still miss two without penalty.  -->
 
 {: .note } 
-PA0 prompt has been revised to account for AWS account isolation. 
+Revised slides for 4/25 to more accurately bucket some AWS services within PaaS and SaaS.
+
+{: .challenge } 
+Beat the 255 second best runtime on PA0 for 2% extra credit! 
 
 Click the 📺 icons below to view lecture recording. 
 

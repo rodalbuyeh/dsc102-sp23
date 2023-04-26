@@ -98,3 +98,6 @@ callouts:
   note:
     title: ""
     color: green
+  challenge:
+    title: Extra Credit
+    color: purple
