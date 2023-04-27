@@ -12,8 +12,8 @@ nav_order: 1
 
 {{ site.staffersnobio }}
 
-<!-- {: .important } 
-In-class activities have been cut from 12 to 6, while you can still miss two without penalty.  -->
+{: .important } 
+PA1 release moved to 4/30 
 
 {: .note } 
 Revised slides for 4/25 to more accurately bucket some AWS services within PaaS and SaaS.
