@@ -101,3 +101,6 @@ callouts:
   challenge:
     title: Extra Credit
     color: purple
+  caution:
+    title: caution
+    color: yellow
