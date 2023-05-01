@@ -8,5 +8,10 @@
 
           "**READ**{: .label .label-hw } [Golokesh's PA1 System Setup Tutorial](resources/labs/PA1_System_Setup_Tutorial.pdf)":
 
+          "**PREP**{: .label .label-exam } [Sample Midterm 1](resources/exams/SampleMidterm1.pdf) - [Solution](resources/exams/SampleMidterm1Answers.pdf)":
+
+          "**PREP**{: .label .label-exam } [Sample Midterm 2](resources/exams/SampleMidterm2.pdf) - [Partial Solution](resources/exams/SampleMidterm2SomeAnswers.pdf)":
+
+
 
 ---
