@@ -8,7 +8,5 @@
 
           "**READ**{: .label .label-hw } [Golokesh's PA1 System Setup Tutorial](resources/labs/PA1_System_Setup_Tutorial.pdf)":
 
-          "**READ**{: .label .label-hw } Ch. 5, 6.1, 6.3, 6.4 of MLSys Book":
-
 
 ---
