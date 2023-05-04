@@ -14,7 +14,7 @@ nav_order: 1
 
 
 {: .note } 
-PA1 is active. 
+Midterm on 5/11/2023 in class 
 
 
 Click the 📺 icons below to view lecture recording. 

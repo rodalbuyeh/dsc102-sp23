@@ -14,7 +14,8 @@
           "**PREP**{: .label .label-exam } [Sample Midterm 2](resources/exams/SampleMidterm2.pdf) - [Partial Solution](resources/exams/SampleMidterm2SomeAnswers.pdf)":
 
           "**WATCH**{: .label .label-proj } [Golokesh's's PA1 Setup Walkthrough](https://www.youtube.com/watch?v=slBoGcoSB9o)": "[📺](https://www.youtube.com/watch?v=slBoGcoSB9o)"
-
-
+      - date: 2023-5-4
+        events:
+          "**LEC 8**{: .label .label-lecture } [Scalable Data Access](resources/lectures/Lec_09-Topic3-Part2a-ScalableDataAccess.pdf)": 
 
 ---
