@@ -16,6 +16,6 @@
           "**WATCH**{: .label .label-proj } [Golokesh's's PA1 Setup Walkthrough](https://www.youtube.com/watch?v=slBoGcoSB9o)": "[📺](https://www.youtube.com/watch?v=slBoGcoSB9o)"
       - date: 2023-5-4
         events:
-          "**LEC 8**{: .label .label-lecture } [Scalable Data Access](resources/lectures/Lec_09-Topic3-Part2a-ScalableDataAccess.pdf)": 
+          "**LEC 8**{: .label .label-lecture } [Scalable Data Access](resources/lectures/Lec_09-Topic3-Part2a-ScalableDataAccess.pdf)": "[📺](https://podcast.ucsd.edu/watch/sp23/dsc102_a00/10)"
 
 ---
