@@ -14,7 +14,7 @@ nav_order: 1
 
 
 {: .challenge } 
-Venky from Amazon's Alexa AI team will be visiting on Thursday 5/25. There will be a 2% extra credit opportunities available during his visit.
+Venky from Amazon's Alexa AI team will be visiting on Thursday 5/25. There will be a 2% extra credit opportunity during his visit.
 
 
 Click the 📺 icons below to view lecture recording. 
