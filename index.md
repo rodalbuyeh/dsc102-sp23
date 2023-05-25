@@ -16,6 +16,9 @@ nav_order: 1
 {: .challenge } 
 Venky from Amazon's Alexa AI team will be visiting on Thursday 5/25. There will be a 2% extra credit opportunity during his visit.
 
+{: .challenge } 
+One more extra credit opportunity: 90%+ CAPE response rate for class yields 0.5% collective boost to final score. 
+
 
 Click the 📺 icons below to view lecture recording. 
 
