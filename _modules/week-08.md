@@ -8,7 +8,6 @@
           "**WATCH**{: .label .label-proj } [Trevor's PA2 Setup Walkthrough](https://podcast.ucsd.edu/watch/sp23/dsc102_a01)": "[📺](https://podcast.ucsd.edu/watch/sp23/dsc102_a01)"
       - date: 2023-5-25
         events:
-          "**LEC 14**{: .label .label-lecture } [Industry Guest Talk: Venkatesh Ravichandran](resources/lectures/Lec_14-GuestLecture-VenkiRavi.pdf)": 
-
+          "**LEC 14**{: .label .label-lecture } [Industry Guest Talk: Venkatesh Ravichandran](resources/lectures/Lec_14-GuestLecture-VenkiRavi.pdf)": "[📺](https://podcast.ucsd.edu/watch/sp23/dsc102_a00/16)"
 
 ---
