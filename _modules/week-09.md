@@ -9,6 +9,6 @@
           "**WATCH**{: .label .label-proj } [Task Graph Review](https://www.youtube.com/watch?v=XrxqEChqKJQ)": "[📺](https://www.youtube.com/watch?v=XrxqEChqKJQ)"
       - date: 2023-6-1
         events:
-          "**LEC 16**{: .label .label-lecture } [Dataflow Systems (continued)](resources/lectures/Lec_16-Topic4b-DataflowSystems.pdf)": 
+          "**LEC 16**{: .label .label-lecture } [Dataflow Systems (continued)](resources/lectures/Lec_16-Topic4b-DataflowSystems.pdf)": "[📺](https://podcast.ucsd.edu/watch/sp23/dsc102_a00/18)"
 
 ---
