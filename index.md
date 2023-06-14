@@ -13,10 +13,6 @@ nav_order: 1
 {{ site.staffersnobio }}
 
 
-{: .challenge } 
-One more extra credit opportunity: 90%+ CAPE response rate for class yields 0.5% collective boost to final score. 
-
-
 Click the 📺 icons below to view lecture recording. 
 
 
